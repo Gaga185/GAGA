@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://ibrahim-adams.vercel.app
+ https://Gaga-pair.vercel.app
  
  
  *STEPS TO GET SESSION*
@@ -45,7 +45,7 @@ const date = moment().format('DD/MM/YYYY');
  1. Open link
  2. Enter your whatsapp number with your country code eg : 254,255. And tap submit
  3. Ibrahim tech will sent you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that Ibrahim tech sent you.
+ 4. Tap on that notification then enter in the code that Richard Gaga sent you.
  5. It will load for sometime then Ibrahim tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
@@ -53,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
  `;
     
 let menuMsg = `
-> Made by : ©Ibrahim Adams 
+> Made by : ©Richard Gaga 
 `;
 
    var lien = mybotpic();
