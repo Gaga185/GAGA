@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING GAGA-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/C7tunMI1UjV3mRcdR9Evgz] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n*Created By Mr anyway") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING ANYWAY-MD-V1,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING GAGA-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/ETG4ueyijL32geMAkFKTvS] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/] \n\n\n*Created By RICHARDGAGA") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING GAGA-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
