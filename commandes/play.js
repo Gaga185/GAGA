@@ -1,4 +1,4 @@
-const = {`ibrahim adams`}
+const = {`Richsrd`}
 const = Remote_from_ibrahim_adams
 
 {Blocked}={enter password}
